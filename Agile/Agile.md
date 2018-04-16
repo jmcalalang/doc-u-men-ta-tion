@@ -16,6 +16,16 @@ do it.
 
 ## [Principles](http://agilemanifesto.org/)
 
+- **Individuals and interactions** over processes and tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
+
+That is, while there is value in the items on
+the right, we value the items on the left more.
+
+Tying a similarity together, DevOps has a ["Shift Left"](https://devops.com/devops-shift-left-avoid-failure/) practice in which testing is adapted to a different interval, Agile also has a "left" concept. Though unrelated, we can see how things have progressed.
+
 - Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.
