@@ -8,10 +8,9 @@ Uncovering better ways of developing software by doing it and helping others
 do it.
 
 ## [Frameworks](https://developer.epa.gov/guide/templates-guides/agile/agile-frameworks/)
- Typically tied directly with Scrum, however there are three different
- frameworks which can be used within agile.
-- Scrum
+ Commonly implemented with [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), however there are other popular frameworks which can be used within agile.
 - Kanban
+- Scrumban
 - Extreme Programming (XP)
 
 ## [Principles](http://agilemanifesto.org/)
