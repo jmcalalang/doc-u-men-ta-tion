@@ -67,15 +67,15 @@ As the Data Plane is responsible for the moving of traffic, the Control Plane is
 
 ## Diagrams
 
-- Linkerd
+#### - Linkerd
 ![alt text](https://buoyant.io/wp-content/uploads/2017/04/linkerd-service-mesh-diagram.png "Linkerd Architecture")
 
-- Istio
+#### - Istio
 ![alt text](https://istio.io/docs/concepts/what-is-istio/img/overview/arch.svg "Istio Architecture")
 
 ## Training
 
-- Linkerd - [Getting started guide](hhttps://linkerd.io/getting-started/k8s/)
+- Linkerd - [Getting started guide](https://linkerd.io/getting-started/k8s/)
 - Conduit - [Getting started guide](https://conduit.io/getting-started/)
 - Istio - [Getting started guide](https://istio.io/docs/setup/kubernetes/quick-start.html)
 - [Aspenmesh](http://blog.idonethis.com/two-pizza-team/)
