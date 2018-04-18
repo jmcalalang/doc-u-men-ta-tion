@@ -88,3 +88,4 @@ As the Data Plane is responsible for the moving of traffic, the Control Plane is
 - [Kubernetes Service Mesh](https://akomljen.com/kubernetes-service-mesh/)
 - [What’s a service mesh? And why do I need one?](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
 - [5 Microservices Trends to Watch in 2018](https://medium.com/memory-leak/5-microservices-trends-to-watch-in-2018-aed135f70e51)
+- [The Road Ahead for Service Mesh](https://devops.com/the-road-ahead-for-service-mesh/)
