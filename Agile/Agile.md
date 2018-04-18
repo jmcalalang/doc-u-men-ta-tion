@@ -71,6 +71,7 @@ its behavior accordingly.
 
 - [5 Success Stories That Will Make You Believe in Scaled Agile](https://dzone.com/articles/5-success-stories-that-will-make-you-believe-in-sc)
 - [Spotify - A Big European Win For Agile: Spotify's Wall Street Debut Succeeds](https://www.forbes.com/sites/stevedenning/2018/04/04/a-big-european-win-for-agile-spotifys-wall-street-debut-succeeds/#186a424b7bb4)
+- [From agile to DevOps to continuous delivery: An evolution in software delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery)
 
 ## Training
 
