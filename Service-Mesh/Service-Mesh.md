@@ -55,7 +55,7 @@ A cumulative list from the 4 different solutions about whats required in a Servi
 - Preemptive Failure Notification			
 - Technical Support
 
-## [Principles](http://agilemanifesto.org/)
+## Principles
 
 Commonalities between the products start with participation in the [Cloud Native Computing Foundation](https://www.cncf.io/), this acts as a vender neutral home to work on solutions with a cloud focus.
 
