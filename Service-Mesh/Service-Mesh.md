@@ -8,7 +8,7 @@ tl;dr: A service mesh is a dedicated infrastructure layer for making service-to-
 
 ## Mesh Solutions
 
-Bouyant is credited with first term of Service Mesh, used with the Linkerd product this was more of an agnostic Mesh capable of different platforms and technologies (more hybrid cloud). Conduit is also a Bouyany product however it is focused solely on Kubernetes. Istio is also agnostic to a point, able to run in things other then K8's (Cloud Foundry, Nomad, Mesos, ect.) however it uses different proxy technologies then Conduit.
+Bouyant is credited with first using the term "Service Mesh"; first used with the Linkerd product this Serivce Mesh is more of an agnostic Mesh, capable of running on different platforms and technologies (more hybrid cloud). Conduit is also a Bouyant product however it is focused solely on Kubernetes. Istio is also agnostic to a point, able to run in things other then K8's (Cloud Foundry, Nomad, Mesos, ect.) however it uses different proxy technologies then Conduit.
 
 Aspenmesh is based off Istio with backing from F5, adding to it more granular pieces like a Mesh as a SaaS, and support.
 
@@ -57,7 +57,7 @@ A cumulative list from the 4 different solutions about whats required in a Servi
 
 ## [Principles](http://agilemanifesto.org/)
 
-Commonalities between the products start with participation in the [Cloud Native Computing Foundation](https://www.cncf.io/) this acts as a vender nutral home to work on solutions with a cloud focus.
+Commonalities between the products start with participation in the [Cloud Native Computing Foundation](https://www.cncf.io/), this acts as a vender neutral home to work on solutions with a cloud focus.
 
 All tools use a Proxy of some sort, they are used to form the Data Plane layer in which information is gathered and fed into the Control Plane, other things can feed into the Control Plane as well (like Consul in Istio for Service Discovery).
 
@@ -78,7 +78,7 @@ As the Data Plane is responsible for the moving of traffic, the Control Plane is
 - Linkerd - [Getting started guide](https://linkerd.io/getting-started/k8s/)
 - Conduit - [Getting started guide](https://conduit.io/getting-started/)
 - Istio - [Getting started guide](https://istio.io/docs/setup/kubernetes/quick-start.html)
-- [Aspenmesh](http://blog.idonethis.com/two-pizza-team/)
+- Aspenmesh - [Features](https://aspenmesh.io/)
 
 ## Notable articles
 
